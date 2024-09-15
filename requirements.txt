@@ -6,9 +6,6 @@ networkx
 scipy
 networkx
 scipy
-scipy.spatial
 tkinter
 matplotlib
-matplotlib.patches
-matplotlib.pyplot
 
