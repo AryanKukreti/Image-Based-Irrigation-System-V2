@@ -4,5 +4,11 @@ matplotlib
 Pillow
 networkx
 scipy
-libtk8.6
+networkx
+scipy
+scipy.spatial
 tkinter
+matplotlib
+matplotlib.patches
+matplotlib.pyplot
+
