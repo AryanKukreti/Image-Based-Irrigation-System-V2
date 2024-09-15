@@ -4,8 +4,4 @@ matplotlib
 Pillow
 networkx
 scipy
-networkx
-scipy
 tkinter
-matplotlib
-
