@@ -5,3 +5,4 @@ Pillow
 networkx
 scipy
 libtk8.6
+tkinter
